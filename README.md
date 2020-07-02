@@ -1,2 +1,2 @@
 # CreditCalc
-Credit calculator by using command line arguments
+Credit calculator using command line arguments
